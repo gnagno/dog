@@ -1,6 +1,12 @@
 # Dog
 
-TODO: Write a gem description
+Dog is a fantastic alternative to the cat command!
+
+## Motivation
+
+I don't like cats, I love dogs. And I feel tired of always using cat in my terminal, I want to have also the dog command. If the cat command is reading a file and displaying it to screen what is the dog command supposed to do?
+
+Rememember the old days when you used to say to your teacher that your dog (even if you actually didn't have one) ate your homework? Well dog will eat your files... pass him a file and he will print it on screen in pieces.
 
 ## Installation
 
